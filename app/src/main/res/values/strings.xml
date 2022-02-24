@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Apondi Ashley</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">""Hi,my name is Apondi Ashley Mary
+        \nI am turning 21 this year.
+        \n\nI am a 3rd year student from Meru University of Science and technology
+        \nI am pursuing a degree course in computer science.
+        \n\nMy interest in this field of IT is graphics Design and Programming.
+        \n\nMy vision is that a few years to come I\'ll have acquired a job \nand earning from it.
+        \n\nI love watching series rather than movies.
+        \n\nI love enjoyment and listening to afro beats.\nDancing, drawing and singing are my hobbies.
+        \n\nI am the firstborn in my family which gives me the push to work hard everyday.
+        \n\nI am the only girl followed by two brothers. I want to give them the best in this life.
+        \n\nMy motivator is my dad,we talk alot as compared to how I talk with momz.
+        \n\nI am more of a loner but I do know how to socialize with people.
+        \n\nDamn I love fashion, I mean when it comes to dressing well I never disappoint.
+        \n\nMy circle of friends is small and they all crazy but I love them.
+        \n\nRecently I started loving cats,I mean this was not so me.\nI used to hate them until I
+        found a cat has given birth to beautiful kittens in our balcony.\n\nDamn they were so cute and I got attached
+        to them.
+        \n\nOne thing about me is I love working,I love doing things that make me busy.\nI don\'t like being idle.
+        \n\nI have so much to say about me, but will add next time.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">DONE</string>
+    <string name="layout_gravity">center_horizontal</string>
+
+
+</resources>
